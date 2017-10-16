@@ -1,0 +1,7 @@
+T=Camry
+N=Altima
+I=J30
+F=Fusion
+C=Cobalt
+K=Sedona
+D=Stratus
